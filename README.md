@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irene Lin</h1>
-<h3 align="center">Software engineer based in the SF Bay Area</h3>
+<h3 align="center">Software engineer based in the San Francisco Bay Area</h3>
 
 - 👨‍💻 All of my projects are available at [https://irenelin.netlify.app/](https://irenelin.netlify.app/)
 
